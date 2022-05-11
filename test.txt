@@ -1,0 +1,1 @@
+SELECT *  FROM "_SYS_BIC"."k19941/SALES_SUMMARY"('PLACEHOLDER' = ('$$fromdate$$', 'FDate'), 'PLACEHOLDER' = ('$$todate$$', 'TDate'))  where "BRANCHID"=3
